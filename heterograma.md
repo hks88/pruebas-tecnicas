@@ -18,7 +18,6 @@ La función debe:
   - Cuántas veces aparece cada letra repetida.
 
 > ⚠️ Todos los resultados deben ser mostrados en consola.  
-> No se permite el uso de librerías externas.
 
 ---
 
@@ -26,7 +25,5 @@ La función debe:
 
 ### a) Ejemplo 1
 
-**Entrada:**
-javascript esHeterograma("murciélago");
-**Salida:**
-murciélago es un heterograma.
+- Entrada: javascript esHeterograma("murciélago");
+- Salida: murciélago es un heterograma.
