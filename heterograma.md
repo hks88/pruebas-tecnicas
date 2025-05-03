@@ -6,7 +6,6 @@ Desarrolla una función en JavaScript que reciba una palabra y determine si es u
 
 Un **heterograma** es una palabra o frase en la que **ninguna letra del alfabeto se repite**.  
 Ignora espacios, signos de puntuación y distingue solo letras (a-z, sin acentos).  
-No distingue entre mayúsculas y minúsculas.
 
 ## Requisitos
 
