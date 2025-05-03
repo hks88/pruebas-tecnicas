@@ -25,5 +25,6 @@ La función debe:
 
 ### a) Ejemplo 1
 
-- Entrada: javascript esHeterograma("murciélago");
-- Salida: murciélago es un heterograma.
+```javascript esHeterograma("murciélago");```
+**SALIDA**
+- murciélago es un heterograma.
