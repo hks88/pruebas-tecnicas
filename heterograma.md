@@ -13,9 +13,9 @@ No distingue entre mayúsculas y minúsculas.
 La función debe:
 
 - Imprimir en consola si el texto es un heterograma o no.
-  - En caso de **no ser heterograma**, debe mostrar:
-  - Qué letras se repiten.
-  - Cuántas veces aparece cada letra repetida.
+- En caso de **no ser heterograma**, debe mostrar:
+- Qué letras se repiten.
+- Cuántas veces aparece cada letra repetida.
 
 > ⚠️ Todos los resultados deben ser mostrados en consola.  
 
