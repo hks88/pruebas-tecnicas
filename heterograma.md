@@ -21,14 +21,12 @@ La función debe:
 
 ---
 
-## Ejemplos
-
-### a) Ejemplo 1
+### Ejemplo 1
 ```esHeterograma("murciélago");``` → murciélago es un heterograma.
 
-### b) Ejemplo 2
+### Ejemplo 2
 ```esHeterograma("camaleón");``` → camaleón NO es un heterograma; Letras repetidas: a (2)
 
-### c) Ejemplo 3
+### Ejemplo 3
 ```esHeterograma("cristalina");``` → cristalina NO es un heterograma; Letras repetidas: a (2), i (2)
 
