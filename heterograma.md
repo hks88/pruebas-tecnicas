@@ -10,8 +10,6 @@ No distingue entre mayúsculas y minúsculas.
 
 ## Requisitos
 
-La función debe:
-
 - Imprimir en consola si el texto es un heterograma o no.
 - En caso de **no ser heterograma**, debe mostrar:
 - Qué letras se repiten.
